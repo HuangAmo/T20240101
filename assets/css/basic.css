@@ -1,0 +1,14 @@
+.cube-wrap {
+    display: flex;
+    gap: 10px;
+}
+
+.cube {
+    width: 60px;
+    height: 60px;
+    background: #e77a7a;
+    color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
